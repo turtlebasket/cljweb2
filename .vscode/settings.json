@@ -1,0 +1,11 @@
+{
+    "calva.customREPLCommandSnippets": [
+        {
+            "name": "Remount CLJ App",
+            "key": "r",
+            "repl": "clj",
+            "ns": "main",
+            "snippet": "(-main)"
+        }
+    ],
+}
